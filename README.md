@@ -1,5 +1,7 @@
-# cntp (chrome newtab plugin)
-was tired of using other newtab plugins so I made my own
+# cntp (chrome custom newtab plugin)
+was tired of using other custom newtab plugins so I made my own
+
+does the standard custom newtab plugin deal (redirect user to page they want instead of displaying default page)
 
 ## files, explained
 ```
