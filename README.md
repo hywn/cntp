@@ -6,8 +6,10 @@ does the standard custom newtab plugin deal (redirect user to page they want ins
 ## files, explained
 ```
 manifest.json -- chrome plugin configuration
+
 newtab.html   -- replaces chrome://newtab. runs newtab.js
 newtab.js     -- redirects user to custom url
+
 options.html  -- lets you configure custom url
 options.js    -- javascript related to options.html (chrome doesn't let you do inline <script> in plugin files)
 ```
